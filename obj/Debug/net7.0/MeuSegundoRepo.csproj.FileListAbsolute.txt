@@ -1,0 +1,15 @@
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\bin\Debug\net7.0\MeuSegundoRepo.exe
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\bin\Debug\net7.0\MeuSegundoRepo.deps.json
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\bin\Debug\net7.0\MeuSegundoRepo.runtimeconfig.json
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\bin\Debug\net7.0\MeuSegundoRepo.dll
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\bin\Debug\net7.0\MeuSegundoRepo.pdb
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.dll
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\refint\MeuSegundoRepo.dll
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.pdb
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\MeuSegundoRepo.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Leone\MeuSegundoRepo\obj\Debug\net7.0\ref\MeuSegundoRepo.dll
